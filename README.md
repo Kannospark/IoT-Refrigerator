@@ -13,3 +13,5 @@ An refrigerator with Wechat APP
 ![IMG20230719225513](https://github.com/electric-noob/IoT-Refrigerator/assets/123061577/f5966e9b-c2a4-4ae6-892f-691872d674fb)
 
 Hi3861OpenHarmony-master.zip包里是微信小程序的配置，如果需要使用请将整个包解压后用微信开发者工具打开，然后参考教程4.5.3修改小程序的服务器id等等参数。
+
+然后，如果你真的要尝试这个项目的话，请在issue里提问，我知道你肯定会遇到很多问题（
