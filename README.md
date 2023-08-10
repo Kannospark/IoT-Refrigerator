@@ -9,3 +9,5 @@ An refrigerator with Wechat APP
 
 在配置好海思开发环境后，需要将本目录下的三个demo文件夹copy到/app文件下，参考教程更改iot_config以及iot_main中的配置（wifi、小程序id等），然后用本目录下的BUILD.gn文件替换/app目录下的BUILD，接着rebuild、upload后即可使用。烧录成功后打开monitor，开发板联网、连接服务器需要大约40s左右，使用微信小程序点击照明，若照明成功则连接成功。
 ![IMG20230719225513](https://github.com/electric-noob/IoT-Refrigerator/assets/123061577/f5966e9b-c2a4-4ae6-892f-691872d674fb)
+
+Hi3861OpenHarmony-master.zip包里是微信小程序的配置，如果需要使用请将整个包解压后用微信开发者工具打开，然后参考教程4.5.3修改小程序的服务器id等等参数。
